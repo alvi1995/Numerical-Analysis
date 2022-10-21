@@ -1,3 +1,7 @@
+// The core of this program is taken from Numerical Recipes in C:3rd edition
+// I modified it so that it can do fraction operation.
+
+
 #include <iostream>
 #include <iomanip>
 
